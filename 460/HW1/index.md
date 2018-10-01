@@ -1,8 +1,9 @@
-## Welcome
+## Homework
+This assignment involved learning HTML/CSS to make a website, and using git via the command line to push the changes to a repository.
 
-This is going to be a filled out portfolio of my work and assignments for CS 460 at Western Oregon University.  For now there isn't much, but it'll be getting filled out over time.
 
+### Links
+* [Assignment Overview](http://www.wou.edu/~morses/classes/cs46x/assignments/HW1.html)
+* [Repository with code](https://github.com/StanSantiago/460_HW1)
+* [Demo of Site](https://stansantiago.github.io/StanSantiago.github.io/460/HW1/site/)
 
-### CS 460 Projects
-* [Homework 1](StanSantiago.github.io/460/HW1)
-* Homework 2 (To be available)
