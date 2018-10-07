@@ -5,4 +5,5 @@ This is going to be a filled out portfolio of my work and assignments for CS 460
 
 ### CS 460 Projects
 * [Homework 1](StanSantiago.github.io/460/HW1)
-* Homework 2 (To be available)
+* [Homework 2](StanSantiago.github.io/460/HW2)
+* Homework 3 (To be available)
