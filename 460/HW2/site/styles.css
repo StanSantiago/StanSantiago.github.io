@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-image:url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&h=6472&w=3641);
+}
+
+.header{
+  font-family: Arial, "Times New Roman";
+  color: #1e44ff;
+  font-size: 90px;
+  background-color: black;
+  text-align-last: center;
+}
+
+p{
+   font-family: "Courier New", Courier;
+   font-size: 20px;
+   background-color: grey;
+
+}
+
+ul{
+  distplay: inline-block;
+  font-family: "Courier New", Courier;
+  font-size: 20px;
+  background-color: grey;
+}
+
+.table{
+  background-color: grey;
+}

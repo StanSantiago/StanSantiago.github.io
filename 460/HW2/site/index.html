@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>Mainpage</title>
+    <meta charset = "UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>
+        Website Title
+      </h1>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p>For y=mx+b, define m, b, and a minimum and maximum for x.  The range of x cannot be greater than ten, and all values must be between -1000 and 1000.</p>
+          <ul style="list-style-type:none">
+            <li>m=<input id=m></li>
+            <li>b=<input id=b></li>
+            <li>min x=<input id=xMin></li>
+            <li>max x=<input id=xMax></li>
+            <button type="button" onclick="printTable()">Submit</button>
+          </ul>
+
+          <div id="table_here"></div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>
