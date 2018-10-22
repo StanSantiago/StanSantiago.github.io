@@ -1,4 +1,4 @@
-## Homework
+## Homework 3
 This assignment involved learning learning C# syntax and usage via translating a preexisting Java program that outputs all binary values up to the input decimal value.
 
 
