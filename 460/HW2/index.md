@@ -19,8 +19,6 @@ After creating the initial files, most of the work for this assignment was done 
 ```bash
 #Creating the new branch
 git checkout -b feature
-#Changing the working branch
-git checkout feature
 #Push changes the new branch to remote
 git push origin feature
 ```
